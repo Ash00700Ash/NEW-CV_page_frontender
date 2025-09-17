@@ -1,0 +1,104 @@
+body {
+    background-color: #eff9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.header {
+    text-align: center;
+
+}
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+
+.header__title {
+        font-size: 28px;
+}
+
+.header__subtitle {
+    font-size: 18px;
+    color: red;
+}
+
+main {
+    list-style: none;
+    border: 1px solid darkgrey;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+section img {
+    width: 400px;
+    height: 400px;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #3accd9;
+}
+
+
+.video  {
+    width: 800px;
+    height: 490px;
+    border: none;
+}
+
+.hobbies li {
+    list-style: none;
+}
+
+
+
+.ed__table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ed__table th ,
+.ed__table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+form {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.form__control {
+    width: 100%;
+}
+
+.control__text{
+    margin: 10px;
+    width: 50%;
+}
+
+.from__submit {
+    display: block;
+    margin: 0 auto;
+}
+
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color:#c2c2c2;
+}
+
+.contacts__link {
+    text-decoration: none;
+    color: #973f3f;
+    margin: 10px 10px;
+}
